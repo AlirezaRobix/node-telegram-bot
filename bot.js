@@ -31,6 +31,7 @@ bot.on('message', (msg) => {
 	" *Online :D* ",
 	"im Ok😉"
 ];
+	
 var rndanswr = ping[Math.floor(Math.random() * ping.length)];
 
  if (msg.text == "ping") {
