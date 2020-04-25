@@ -8,8 +8,11 @@ apt-get install nodejs
 ```
 
 ## Get Started
-// insert your token bot & sudoID in bot.js File
-install the dependencies....
+```bash
+// insert Bot-TOKEN & SudoID in bot.js File
+```
+
+install the dependencies:
 ```bash
 git clone https://github.com/AlirezaRobix/node-telegram-bot.git
 cd node-telegram-bot
