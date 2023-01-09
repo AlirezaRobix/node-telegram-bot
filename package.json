@@ -15,7 +15,7 @@
     "boxen": "^4.2.0",
     "cli-color": "^2.0.0",
     "dabi-images": "^2.7.5",
-    "luxon": "^1.22.0",
+    "luxon": "^2.5.2",
     "moment": "^2.24.0",
     "node-telegram-bot-api": "^0.40.0",
     "pornsearch": "^2.4.3",
